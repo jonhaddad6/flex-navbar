@@ -1,0 +1,25 @@
+.nav {
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+}
+a {
+    color: blanchedalmond;
+}
+.nav-title {
+    color: blanchedalmond;
+    padding-left: 30px;
+}
+ul {
+    display: flex;
+}
+li {
+    margin: 20px;
+}
+.btn {
+    color: white;
+    background-color: lightskyblue;
+}
+.active {
+    color: white;
+}
